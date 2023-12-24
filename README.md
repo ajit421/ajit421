@@ -21,8 +21,8 @@
 <a href="https://linkedin.com/in/ajit7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit7900" height="30" width="40" /></a>
 <a href="https://instagram.com/black_gold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_gold_79" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/421mrdark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="421mrdark" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@Dark421)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Dark421" height="30" width="40" /></a>
-	<a href="https://discord.gg/black_gold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_gold_79" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Dark421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Dark421" height="30" width="40" /></a>
+<a href="https://discord.gg/black_gold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_gold_79" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
