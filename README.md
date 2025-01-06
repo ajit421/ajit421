@@ -37,6 +37,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit421&" alt="ajit421" /></p>
 
+![snake gif](https://github.com/ajit421/ajit421/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
