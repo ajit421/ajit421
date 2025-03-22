@@ -40,6 +40,14 @@
 ![snake gif](https://github.com/ajit421/ajit421/blob/output/github-contribution-grid-snake.gif)
 
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=THANKS+FOR+YOUR+VISIT!!!"
 </p>
