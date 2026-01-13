@@ -11,6 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit421&label=Profile%20views&color=0e75b6&style=flat" alt="ajit421" /> </p>
 
+### 👨‍💻 About Me
+
 - 🌱 I’m currently learning **WEB Security, open source contribution, Networking, Internet of Things**
 
 - 👯 I’m looking to collaborate on **cloud**
@@ -21,11 +23,13 @@
 
 - ⚡ Fun fact **Ajit kumar ask Dark**
 
+<br clear="right"/>
+
 <!-- social media -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🌐 Connect with Me
 
+<p align="left">
 <a href="https://linkedin.com/in/ajit7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit7900" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/421mrdark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="421mrdark" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@Dark421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Dark421" height="30" width="40" /></a>
@@ -39,7 +43,7 @@
 
 
 <!-- tools -->
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
@@ -51,6 +55,9 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit421&show_icons=true&locale=en&layout=compact" alt="ajit421" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajit421&show_icons=true&locale=en" alt="ajit421" /></p>
@@ -60,6 +67,9 @@
 <p>
 <img src="https://github-profile-trophy.vercel.app/?username=ajit421" alt="ajit421">
 </p>
+
+
+
 
 <!-- animatedimages -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
