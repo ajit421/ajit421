@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **WEB Security, open source contribution, Networking, Internet of Things**
+- 🌱 I’m currently learning **printed circuit board, 3D modeling, open source contribution, Internet of Things**
 
-- 👯 I’m looking to collaborate on **cloud**
+- 👯 I’m looking to collaborate on **GenAI**
 
 - 💬 Ask me about **Anything**
 
@@ -58,28 +58,47 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajit421&show_icons=true&locale=en&layout=compact" alt="ajit421" /></p>
+## 📈 GitHub Streak Stats
+<div align="center">
+  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajit421&show_icons=true&locale=en" alt="ajit421" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit421&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit421" alt="ajit421" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit421&theme=tokyonight" alt="Commits"/>
+  
+</div>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=ajit421" alt="ajit421">
-</p>
+<!-- animatedimages -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
 
 
+
+<!-- GitHub Profile Summary -->
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit421&theme=tokyonight" alt="Profile Summary"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit421&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit421&theme=tokyonight" alt="Most Commit Language"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit421&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit421&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+  
+</div>
 
 
 <!-- animatedimages -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
 
 <!------------------ Activity Graph  -------------------------->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajit421&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit421&theme=tokyo-night&hide_border=true&area=true)
+  
+</div>
 <!-- animatedimages -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
 
 
 <!-- Snake Game Repo View -->
@@ -94,7 +113,33 @@
 </p>
 	
 
-
 <!-- animatedimages -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1920" />
+
+
+
+
+
+```
+                            ░░░▒▒▓▓██████▓▓▒▒░░░
+                       ░░▒▒▓▓██ FINAL BOSS ██▓▓▒▒░░
+                            ░░░▒▒▓▓██████▓▓▒▒░░░
+                              ___
+                           .-'   `'.
+                          /         \
+                          |         ;
+                          |         |           ___.--,
+                 _.._     |0) ⚡(0) |    _.---'`__.-( (_.
+          __.--'`_.. '.__.\    '--. \_.-' ,.--'`     `""`
+         ( ,.--'`   ',__ /./;   ;, '.__.'`    __
+         _`) )  .---.__.' / |   |\   \__..--""  """--.,_
+        `---' .'.''-._.-'`_./  /\ '.  \ _.-~~~````~~~-._`-.__.'
+              | |  .' _.-' |  |  \  \  '.               `~---`
+               \ \/ .'     \  \   '. '-._)
+                \/ /        \  \    `=.__`~-.
+                / /\         `) )    / / `"".`\
+          , _.-'.'\ \        / /    ( (     / /
+           `--~`   ) )    .-'.'      '.'.  | (
+                  (/`    ( (`          ) )  '-;
+                   `      '-;         (-'
+```
