@@ -59,6 +59,13 @@
 
 
 ## 📈 GitHub Streak Stats
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajit421&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3"  alt="streak graph"  />
+</div>
+
+
 <div align="center">
   
 
