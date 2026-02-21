@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Markdown     7 hrs 46 mins         ██████████░░░░░░░░░░░░░░░   39.51 %
-Vue.js       3 hrs 3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-Python       2 hrs 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-JavaScript   2 hrs 30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Mermaid      47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Markdown     6 hrs 1 min           █████████░░░░░░░░░░░░░░░░   36.13 %
+Vue.js       3 hrs 3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.28 %
+Python       2 hrs 58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+JavaScript   1 hr 53 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Mermaid      47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 ```
 
 <!--END_SECTION:waka-->
