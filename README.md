@@ -60,13 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-Markdown     7 hrs 14 mins         ██████████████▒░░░░░░░░░░   57.48 %
-Vue.js       2 hrs 31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-JavaScript   1 hr 13 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-CSS          46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Git Config   19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown   7 hrs 10 mins         ███████████████████████▓░   94.04 %
+HTML       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other      9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
