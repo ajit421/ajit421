@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Markdown   7 hrs 10 mins         ███████████████████████▓░   94.04 %
-HTML       14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Other      9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown   4 hrs 14 mins         ████████████████████████░   96.49 %
+Other      5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->
