@@ -60,11 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2026 - To: 15 April 2026
+From: 09 April 2026 - To: 16 April 2026
 
-JavaScript   25 mins               ██████████████▓░░░░░░░░░░   58.08 %
-Mermaid      11 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
-CSS          6 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
+Markdown     1 hr 13 mins          ██████████████░░░░░░░░░░░   55.44 %
+JavaScript   26 mins               █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Python       12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+Mermaid      11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+HTML         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
