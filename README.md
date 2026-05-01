@@ -60,13 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 April 2026 - To: 29 April 2026
+From: 23 April 2026 - To: 30 April 2026
 
-Markdown     1 hr 10 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.72 %
-HTML         1 hr 8 mins           █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-Gosu         1 hr 7 mins           █████░░░░░░░░░░░░░░░░░░░░   20.08 %
-JavaScript   48 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.29 %
-Other        28 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Markdown     1 hr 12 mins          ███████▓░░░░░░░░░░░░░░░░░   30.69 %
+Gosu         1 hr 11 mins          ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+JavaScript   46 mins               █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Other        25 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
 ```
 
 <!--END_SECTION:waka-->
