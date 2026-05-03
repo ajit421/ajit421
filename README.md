@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 01 May 2026
+From: 25 April 2026 - To: 02 May 2026
 
-Gosu       1 hr 11 mins          ██████████▒░░░░░░░░░░░░░░   41.55 %
-Markdown   1 hr 6 mins           █████████▓░░░░░░░░░░░░░░░   38.74 %
-Other      15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Gosu         1 hr 11 mins          ███████████░░░░░░░░░░░░░░   43.49 %
+Markdown     1 hr 4 mins           █████████▓░░░░░░░░░░░░░░░   39.27 %
+Other        15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
 
 <!--END_SECTION:waka-->
