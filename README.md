@@ -60,10 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-Gosu         1 hr 11 mins          ███████████████▓░░░░░░░░░   62.84 %
-Other        15 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Markdown     51 mins               ██████████████▓░░░░░░░░░░   59.29 %
+Other        16 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
 ```
 
 <!--END_SECTION:waka-->
