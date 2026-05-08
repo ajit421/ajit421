@@ -60,10 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2026 - To: 06 May 2026
+From: 30 April 2026 - To: 07 May 2026
 
-Markdown     52 mins               ██████████████▒░░░░░░░░░░   56.89 %
-Other        17 mins               █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+Markdown     1 hr 35 mins          ████████████▓░░░░░░░░░░░░   51.15 %
+JavaScript   1 hr 5 mins           ████████▓░░░░░░░░░░░░░░░░   35.04 %
+JSON         13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+HTML         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Git Config   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
