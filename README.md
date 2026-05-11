@@ -60,36 +60,49 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <br clear="right"/>
 
----
+<!-- social media -->
 
-<!-- ═══════════════════════════════════════════════════════════════
-     SECTION 3: SOCIAL CONNECT BADGES
-     Clean horizontal row, all platforms, consistent styling
-════════════════════════════════════════════════════════════════════ -->
+### 🌐 Connect with Me
 
-<div align="center">
+<p align="left">
+<a href="https://linkedin.com/in/ajit7900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit7900" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/421mrdark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="421mrdark" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@Dark421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="Dark421" height="30" width="40" /></a>
+<a href="https://discord.gg/black_gold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="black_gold_79" height="30" width="40" /></a>
+<a href="https://instagram.com/black_gold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="black_gold_79" height="30" width="40" /></a>
+<a href="https://twitter.com/blackgold_79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="blackgold_79" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/421mrnjfs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="421mrnjfs" height="30" width="40" /></a>
+<a href="https://leetcode.com/ajit421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajit421" height="30" width="40" /></a>
+</p>
 
-### 🌐 &nbsp;Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ajit421.netlify.app-70A5FD?style=for-the-badge&logo=netlify&logoColor=white)](https://ajit421.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajit7900-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajit7900)
-[![GitHub](https://img.shields.io/badge/GitHub-ajit421-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajit421)
-[![Gmail](https://img.shields.io/badge/Gmail-ajit.info999-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajit.info999@gmail.com)
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-blackgold__79-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blackgold_79)
-[![Telegram](https://img.shields.io/badge/Telegram-black__gold__79-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/black_gold_79)
-[![Instagram](https://img.shields.io/badge/Instagram-black__gold__79-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/black_gold_79)
+<!-- tools -->
+### 🛠️ Languages and Tools
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+</p>
 
-</div>
 
----
 
-<!-- ═══════════════════════════════════════════════════════════════
-     SECTION 4: TECH STACK
-     Row-wise horizontal layout — category label + badges per row
-════════════════════════════════════════════════════════════════════ -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### 🛠️ &nbsp;Tech Stack
+
+<!-- ## 📈 GitHub Streak Stats -->
+
+
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=ajit421&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div> -->
+
 
 <div align="center">
 
