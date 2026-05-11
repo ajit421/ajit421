@@ -15,7 +15,7 @@
 
 <!-- Animated typing headline -->
 <a href="https://ajit421.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey%2C+I'm+Ajit+Kumar+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+IoT+Developer" alt="Animated Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Ajit+Kumar+%F0%9F%91%8B;Software+Engineer+%E2%80%A2+IoT+Developer" alt="Animated Headline" />
 </a>
 
 <!-- Sub-headline badges -->
@@ -60,7 +60,10 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <br clear="right"/>
 
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 3: SOCIAL CONNECT BADGES
@@ -69,7 +72,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <div align="center">
 
-### 🌐 &nbsp;Connect With Me
+### &nbsp;Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajit421.netlify.app-70A5FD?style=for-the-badge&logo=netlify&logoColor=white)](https://ajit421.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajit7900-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajit7900)
@@ -82,19 +85,19 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 4: TECH STACK
      Row-wise horizontal layout — category label + badges per row
 ════════════════════════════════════════════════════════════════════ -->
 
-### 🛠️ &nbsp;Tech Stack
+### &nbsp;Tech Stack
 
 <div align="center">
 
 <!-- Row 1: Languages -->
-**💻 Languages** &nbsp;
+**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -104,7 +107,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 <!-- Row 2: Frameworks & Tools -->
-**⚙️ Frameworks & Tools** &nbsp;
+**Frameworks & Tools** &nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -115,7 +118,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 <!-- Row 3: AI / ML -->
-**🧠 AI / ML / Data Science** &nbsp;
+**AI / ML / Data Science** &nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -124,7 +127,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <!-- Row 4: IoT & Hardware -->
-**🔌 IoT & Hardware** &nbsp;
+**IoT & Hardware** &nbsp;
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -133,20 +136,20 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 5: FEATURED PROJECTS
      Premium card-style layout using HTML tables with badges
 ════════════════════════════════════════════════════════════════════ -->
 
-### 🚀 &nbsp;Featured Projects
+### &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ PCB Motor Calculator
+#### PCB Motor Calculator
 > Full-stack PCB calculator implementing **IPC-2221 standards** for trace width, motor performance, magnetic field, and **3D visualization** calculations. Reduces manual effort for complex electrical engineering tasks.
 
 **Tech Stack:**
@@ -160,7 +163,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 </td>
 <td width="50%" valign="top">
 
-#### 🖥️ System Control — Remote Admin Bot
+#### System Control — Remote Admin Bot
 > **Telegram-based** cross-platform remote administration for Windows, macOS & Linux. Includes real-time monitoring, screenshot/webcam capture, file management, clipboard access, and **secure auth**.
 
 **Tech Stack:**
@@ -176,7 +179,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <tr>
 <td width="50%" valign="top">
 
-#### 🧮 Smart Calculator — AI Handwriting Recognition
+#### Smart Calculator — AI Handwriting Recognition
 > AI-powered calculator using **Google Gemini AI** that recognises handwritten math expressions from a canvas. Features undo/redo, color palette, and **export-to-PNG**.
 
 **Tech Stack:**
@@ -190,7 +193,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 </td>
 <td width="50%" valign="top">
 
-#### 🛩️ AirBuddy Workspace
+#### AirBuddy Workspace
 > Aerospace workforce management platform with **AI assistant**, Google Calendar sync, **Firebase backend**, push notifications, real-time task tracking, and admin dashboard.
 
 **Tech Stack:**
@@ -205,16 +208,14 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 </tr>
 </table>
 
----
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 7: GITHUB STATS
      Streak + Summary Cards + Activity Graph — Tokyo Night theme
 ════════════════════════════════════════════════════════════════════ -->
 
-### 📊 &nbsp;GitHub Stats
+### &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -243,7 +244,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 8: SNAKE + PACMAN CONTRIBUTION ANIMATIONS
@@ -252,7 +253,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <div align="center">
 
-### 🐍 &nbsp;Contribution Snake
+### &nbsp;Contribution Snake
 
 <img src="https://raw.githubusercontent.com/ajit421/ajit421/output/snake.svg" alt="GitHub Contribution Snake (Dark)" />
 
@@ -260,7 +261,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <div align="center">
 
-### 👾 &nbsp;Pac-Man Contribution Graph
+### &nbsp;Pac-Man Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajit421/ajit421/output/pacman-contribution-graph-dark.svg">
@@ -270,7 +271,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 9: CURRENTLY LEARNING / OPEN SOURCE
@@ -281,30 +282,30 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <tr>
 <td width="50%" valign="top">
 
-### 📚 &nbsp;Currently Learning
+### &nbsp;Currently Learning
 
-- 🔬 &nbsp;**Embedded AI** — TinyML on ESP32 & Raspberry Pi
-- 🌐 &nbsp;**Edge Computing** — Low-latency IoT architectures
-- 🤖 &nbsp;**LLM Integration** — Local & API-based agents
-- 🔧 &nbsp;**Advanced PCB** — Multi-layer board design
-- ☁️ &nbsp;**Cloud-Native IoT** — AWS IoT Core / Azure Digital Twins
+-  &nbsp;**Embedded AI** — TinyML on ESP32 & Raspberry Pi
+-  &nbsp;**Edge Computing** — Low-latency IoT architectures
+-  &nbsp;**LLM Integration** — Local & API-based agents
+-  &nbsp;**Advanced PCB** — Multi-layer board design
+-  &nbsp;**Cloud-Native IoT** — AWS IoT Core / Azure Digital Twins
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 &nbsp;Open Source & Community
+### &nbsp;Open Source & Community
 
-- 🚀 &nbsp;Building tools at **AirBuddy Aerospace** (deep-tech startup)
-- 👥 &nbsp;Volunteer, **Start-up Cell** — GEC Khagaria
-- 🏆 &nbsp;Led team of **22 students** at TechMITI'23
-- 💡 &nbsp;Open to **collaborating** on IoT • AI • PCB • Automation projects
-- 🌍 &nbsp;Believer in **open-source first** development
+-  &nbsp;Building tools at **AirBuddy Aerospace** (deep-tech startup)
+-  &nbsp;Volunteer, **Start-up Cell** — GEC Khagaria
+-  &nbsp;Led team of **22 students** at TechMITI'23
+-  &nbsp;Open to **collaborating** on IoT • AI • PCB • Automation projects
+-  &nbsp;Believer in **open-source first** development
 
 </td>
 </tr>
 </table>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 10: RECRUITER CTA
@@ -313,7 +314,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <div align="center">
 
-### 💼 &nbsp;Open to Opportunities
+### &nbsp;Open to Opportunities
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=73DACA&center=true&vCenter=true&width=600&lines=Full-Time+Roles+%7C+SDE+%7C+IoT+Engineer+%7C+AI+Developer;Internships+%7C+Open+Source+Collaborations;Let's+build+something+extraordinary+together!" alt="CTA Typing" />
 
@@ -325,7 +326,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 11: DYNAMIC QUOTE
@@ -334,16 +335,16 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <div align="center">
 
-### 💬 &nbsp;Dev Philosophy
+### &nbsp;Dev Philosophy
 
 > *"The best error message is the one that never shows up."*
 > — Thomas Fuchs
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
 
 </div>
 
----
+
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 12: ANIMATED WAVE FOOTER
