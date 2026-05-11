@@ -1,11 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║           AJIT KUMAR — GITHUB PROFILE README                    ║
-║           Built for: Recruiters • Startups • Open Source        ║
-║           Theme: Tokyo Night / Catppuccin Dark                  ║
-╚══════════════════════════════════════════════════════════════════╝
--->
-
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 1: ANIMATED HERO BANNER
      Uses readme-typing-svg for animated headline + capsule badges
@@ -54,15 +46,14 @@ College  : GEC Khagaria (B.Tech CSE — IoT, 2022–26)
 Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 ```
 
-- 🛰️ &nbsp;Building **intelligent IoT platforms** and **AI-powered applications**
-- ⚡ &nbsp;Designing **PCB tools** with IPC-2221 standards & 3D visualization
-- 🤖 &nbsp;Working at the intersection of **hardware + software + AI**
-- 🌱 &nbsp;Currently exploring **Embedded AI**, **LLM integration**, and **Edge Computing**
-- 🏆 &nbsp;Winner — **Best Idea Challenge**, CDAC Bootcamp 2024 (Hybrid Drone — ENUM Tech)
-- 📊 &nbsp;NPTEL **IoT Certified** — Scored **90/100**
-- 📫 &nbsp;Reach me: **[ajit.info999@gmail.com](mailto:ajit.info999@gmail.com)**
+- &nbsp;Building **intelligent IoT platforms** and **AI-powered applications**
+- &nbsp;Designing **PCB tools** with IPC-2221 standards & 3D visualization
+- &nbsp;Working at the intersection of **hardware + software + AI**
+- &nbsp;Currently exploring **Embedded AI**, **LLM integration**, and **Edge Computing**
+- &nbsp;Winner — **Best Idea Challenge**, CDAC Bootcamp 2024 (Hybrid Drone — ENUM Tech)
+- &nbsp;NPTEL **IoT Certified** — Scored **90/100**
+- &nbsp;Reach me: **[ajit.info999@gmail.com](mailto:ajit.info999@gmail.com)**
 
-<!-- <br clear="right"/> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -226,18 +217,19 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit421&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BB9AF7&currStreakLabel=73DACA" alt="GitHub Streak" width="49%"/>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=ajit421&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BB9AF7&text_color=C0CAF5&count_private=true" alt="GitHub Stats" width="49%"/>
-
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit421&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="38%"/>
 </div>
 
 <div align="center">
-
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit421&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C0CAF5&langs_count=8" alt="Top Languages" width="38%"/>
 
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit421&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="38%"/>
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=ajit421&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BB9AF7&text_color=C0CAF5&count_private=true" alt="GitHub Stats" width="49%"/>
+
+
+
 
 </div>
 
@@ -326,7 +318,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me%20→-Let's%20Talk-70A5FD?style=for-the-badge&logo=googlemeet&logoColor=white)](mailto:ajit.info999@gmail.com)
 [![View Portfolio](https://img.shields.io/badge/Portfolio%20→-See%20My%20Work-BB9AF7?style=for-the-badge&logo=netlify&logoColor=white)](https://ajit421.netlify.app)
-[![Download CV](https://img.shields.io/badge/Resume%20→-Download%20PDF-F7768E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ajit421.netlify.app)
+[![Download CV](https://img.shields.io/badge/Resume%20→-Download%20PDF-F7768E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://res.cloudinary.com/dsk6zd1rj/image/upload/v1770879516/AJIT_KUMAR_ej5fu3.pdf)
 
 </div>
 
@@ -361,6 +353,6 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 
 <br>
 
-*Made with ❤️ by **[Ajit Kumar](https://ajit421.netlify.app)** · Powered by caffeine & curiosity*
+*Made with ❤️ by **[Ajit Kumar](https://ajit-dev.vercel.app)***
 
 </div>

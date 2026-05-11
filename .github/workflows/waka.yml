@@ -1,17 +1,14 @@
 name: Waka Readme
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *" # runs every day at midnight
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
