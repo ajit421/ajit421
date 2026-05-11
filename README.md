@@ -31,14 +31,18 @@
 
 </div>
 
----
+<!-- --- -->
 
 <!-- ═══════════════════════════════════════════════════════════════
      SECTION 2: ABOUT ME
      Left-column text + Right-column animated GIF layout
 ════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" style="border-radius:12px;margin-left:16px"/>
+<!-- <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation" style="border-radius:12px;margin-left:16px"/> -->
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="coding animation" style="border-radius:12px"/>
+</div>
 
 ### 👨‍💻 &nbsp;About Me
 
@@ -58,7 +62,7 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 - 📊 &nbsp;NPTEL **IoT Certified** — Scored **90/100**
 - 📫 &nbsp;Reach me: **[ajit.info999@gmail.com](mailto:ajit.info999@gmail.com)**
 
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
