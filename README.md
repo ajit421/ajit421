@@ -58,13 +58,13 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 May 2026 - To: 11 May 2026
+From: 05 May 2026 - To: 12 May 2026
 
-Markdown      4 hrs                 █████████████▓░░░░░░░░░░░   54.59 %
-JavaScript    2 hrs 15 mins         ███████▓░░░░░░░░░░░░░░░░░   30.70 %
-YAML          14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JSON          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Gosu          9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Markdown      5 hrs 21 mins         █████████████▒░░░░░░░░░░░   53.73 %
+JavaScript    2 hrs 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.06 %
+Bash          50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Python        25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Git Config    19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
