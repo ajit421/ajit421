@@ -58,11 +58,11 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 53 mins         ███████████████████░░░░░░   76.37 %
-Markdown     31 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
-HTML         7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Text         5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Python       2 hrs 59 mins         ██████████▒░░░░░░░░░░░░░░   41.89 %
+HTML         2 hrs 21 mins         ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Markdown     1 hr 4 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+YAML         25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+JavaScript   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
