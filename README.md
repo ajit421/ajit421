@@ -58,11 +58,9 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    2 hrs 58 mins         ███████████████▓░░░░░░░░░   62.58 %
-JavaScript    1 hr 5 mins           █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
-JSON          13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-C             11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Other         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TypeScript    3 hrs 22 mins         ████████████████████████░   96.31 %
+Markdown      4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Other         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
