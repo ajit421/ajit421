@@ -41,7 +41,7 @@
 ```yaml
 Name     : Ajit Kumar
 Role     : Software Engineer & IoT Developer
-Location : Bihar, India 🇮🇳
+Location : Greater Noida, India 🇮🇳
 College  : GEC Khagaria (B.Tech CSE — IoT, 2022–26)
 Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 ```
