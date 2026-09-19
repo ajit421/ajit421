@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Profile cards workflow redraws the radar.",
+  "axes": [
+    { "label": "IoT / Embedded",    "value": 88 },
+    { "label": "Python",            "value": 86 },
+    { "label": "AI / ML",           "value": 78 },
+    { "label": "PCB Design",        "value": 80 },
+    { "label": "Web / Full Stack",  "value": 82 },
+    { "label": "Cloud / Azure",     "value": 70 },
+    { "label": "Automation",        "value": 84 }
+  ]
+}

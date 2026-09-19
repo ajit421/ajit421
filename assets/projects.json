@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "pcb_motor_calculator",
+      "description": "Full-stack PCB calculator implementing IPC-2221 standards for trace width, motor performance, magnetic field and 3D visualization."
+    },
+    {
+      "repo": "Syscontrol",
+      "description": "Telegram-based cross-platform remote administration for Windows, macOS and Linux with secure auth and real-time monitoring."
+    },
+    {
+      "repo": "smart-calculator",
+      "description": "AI calculator using Google Gemini that recognises handwritten math from a canvas. Undo/redo, palette, export to PNG."
+    },
+    {
+      "repo": "airbuddy-workspace",
+      "description": "Aerospace workforce platform with AI assistant, Google Calendar sync, Firebase backend and real-time task tracking."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Language Stack",
+  "_comment": "Hand-authored language radar. Values 0-100. Edit these and the Profile cards workflow redraws it.",
+  "axes": [
+    { "label": "Python",       "value": 90 },
+    { "label": "C / C++",      "value": 78 },
+    { "label": "JavaScript",   "value": 80 },
+    { "label": "HTML / CSS",   "value": 75 },
+    { "label": "SQL",          "value": 68 },
+    { "label": "Embedded C",   "value": 82 }
+  ]
+}
