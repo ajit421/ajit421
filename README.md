@@ -68,8 +68,9 @@ Focus    : Intelligent Systems • Real-time IoT • AI/ML • PCB Tools
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     5 hrs 20 mins         ██████████▒░░░░░░░░░░░░░░   41.70 %
-Other        1 hr 55 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Markdown     4 hrs 43 mins         ███████████░░░░░░░░░░░░░░   44.36 %
+C++          1 hr 26 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Other        1 hr 25 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
 ```
 
 <!--END_SECTION:waka-->
